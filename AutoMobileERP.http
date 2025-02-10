@@ -1,0 +1,6 @@
+@AutoMobileERP_HostAddress = http://localhost:5041
+
+GET {{AutoMobileERP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

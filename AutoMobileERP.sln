@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoMobileERP", "AutoMobileERP.csproj", "{B5BD678A-CA11-487A-8E1C-F01734608AE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoMobile.Models", "..\AutoMobile.Models\AutoMobile.Models.csproj", "{242114B1-B2A0-4C76-B9B1-1F6F367480C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoMobile.DTOs", "..\AutoMobile.DTOs\AutoMobile.DTOs.csproj", "{7FD653F2-2FD9-473E-8727-88568ED64B3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoMobile.ERP.Authentication", "..\AutoMobile.ERP.Authentication\AutoMobile.ERP.Authentication.csproj", "{47AE687E-8B64-4E28-B288-725CA464C49B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoMobile.CouponApi", "..\AutoMobile.CouponApi\AutoMobile.CouponApi.csproj", "{08D76B69-2004-40D1-990D-F859698EB2D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMVC", "..\AutoMVC\AutoMVC.csproj", "{5F4308D2-1DEA-4BED-9D6D-98CCC348E97A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5BD678A-CA11-487A-8E1C-F01734608AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BD678A-CA11-487A-8E1C-F01734608AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BD678A-CA11-487A-8E1C-F01734608AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BD678A-CA11-487A-8E1C-F01734608AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242114B1-B2A0-4C76-B9B1-1F6F367480C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242114B1-B2A0-4C76-B9B1-1F6F367480C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242114B1-B2A0-4C76-B9B1-1F6F367480C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242114B1-B2A0-4C76-B9B1-1F6F367480C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD653F2-2FD9-473E-8727-88568ED64B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD653F2-2FD9-473E-8727-88568ED64B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD653F2-2FD9-473E-8727-88568ED64B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD653F2-2FD9-473E-8727-88568ED64B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AE687E-8B64-4E28-B288-725CA464C49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AE687E-8B64-4E28-B288-725CA464C49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AE687E-8B64-4E28-B288-725CA464C49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AE687E-8B64-4E28-B288-725CA464C49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D76B69-2004-40D1-990D-F859698EB2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D76B69-2004-40D1-990D-F859698EB2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D76B69-2004-40D1-990D-F859698EB2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D76B69-2004-40D1-990D-F859698EB2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4308D2-1DEA-4BED-9D6D-98CCC348E97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4308D2-1DEA-4BED-9D6D-98CCC348E97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4308D2-1DEA-4BED-9D6D-98CCC348E97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4308D2-1DEA-4BED-9D6D-98CCC348E97A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F9E35E6-B3BC-41FB-9C03-88FDB3E63AFC}
+	EndGlobalSection
+EndGlobal
